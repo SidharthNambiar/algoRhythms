@@ -1,11 +1,17 @@
 # [Click here to see it in action](https://algorhythms1904.firebaseapp.com/)
 
+## Presented at the Fullstack Academy of Code Campus in Manhattan, NY
+
+[![](http://img.youtube.com/vi/3ON367TYSLQ/0.jpg)](http://www.youtube.com/watch?v=3ON367TYSLQ "algoRhythms")
+
 ## Team Members
 
 * [Jason Cho](https://github.com/cho-jason)
 * [Jorge Acosta](https://github.com/JorgeAcostaDLP)
 * [Sidharth Nambiar](https://github.com/SidharthNambiar)
 * [Feng Jiang](https://github.com/fjiang91)
+
+
 
 ## Intro
 
