@@ -1,4 +1,4 @@
-# algoRhythms
+# algoRhythms ([Click here to see it in action](https://algorhythms1904.firebaseapp.com/))
 
 ## Team Members
 
