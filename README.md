@@ -52,3 +52,8 @@ If all the tests do not pass, the user can continue to try solving the problem u
 ### Viewing Previously Solved Problems
 
 To view previously solved or attempted problems, click on "My Stats" to view the list of problems attempted. You can view their status and enter the room again by clicking on the Room Id.
+
+## Try It For Yourself
+[Click Here](https://algorhythms1904.firebaseapp.com/)
+
+
